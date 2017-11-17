@@ -5,3 +5,5 @@ It contains a lot of information about this planet.
 Mars is called "the red planet."
 
 It is the fourth planet.
+
+We are considering Venus as a base.
